@@ -1,0 +1,8 @@
+/python_wink.egg-info
+/dist
+*.py[cod]
+/test.py
+/.cache
+/src/python_wink.egg-info
+/.coverage
+/.idea/*
