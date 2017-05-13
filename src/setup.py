@@ -6,6 +6,6 @@ setup(name='python-tuya',
       url='http://github.com/python-tuya/python-tuya',
       author='Jesse Hills',
       license='MIT',
-      install_requires=['paho-mqtt'],
+      install_requires=['paho-mqtt', 'pycrypto'],
       packages=find_packages(exclude=["dist"]),
       zip_safe=True)
