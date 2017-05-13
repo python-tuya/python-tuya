@@ -1,8 +1,9 @@
-/python_wink.egg-info
+/python_tuya.egg-info
 /dist
 *.py[cod]
 /test.py
 /.cache
-/src/python_wink.egg-info
+/src/python_tuya.egg-info
+/src/dist
 /.coverage
 /.idea/*
