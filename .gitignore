@@ -1,9 +1,8 @@
-/python_tuya.egg-info
-/dist
+build/
+dist/
+*.egg-info/
+*.egg
 *.py[cod]
-/test.py
-/.cache
-/src/python_tuya.egg-info
-/src/dist
-/.coverage
-/.idea/*
+__pycache__/
+*.so
+*~
